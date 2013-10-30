@@ -1,4 +1,6 @@
-tizenpi
+TizenPI
 =======
 
-Samsung TizenOS port for RaspberryPI
+Tizen-on-RaspberryPI.
+Work in progress...
+http://tizenpi.cba.pl
