@@ -1,0 +1,2 @@
+Budowanie dla platform docelowych: armv6l-tizen-linux-gnueabi
+Budowanie dla armv6l-tizen-linux-gnueabi
